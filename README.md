@@ -2,7 +2,7 @@
 
 <img src="banner2.png">
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqGtPqCKj7DfKQbWOyRGmVw?style=social)](https://youtube.com/c/Chriss-mk)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/Chriss-mk?style=social)](https://youtube.com/@Chriss-mk)
 [![Twitch Status](https://img.shields.io/twitch/status/chriss_mk?style=social)](https://twitch.com/chriss_mk)
 
 
