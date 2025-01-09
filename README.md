@@ -1,6 +1,6 @@
 ## "Hi there! 👋 I'm Maik. Welcome to my GitHub profile!" 
 
-<img src="banner.png">
+<img src="banner2.png">
 
 <h2> About Me </h2>
 
