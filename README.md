@@ -1,16 +1,13 @@
-## Hi there 👋
+## "Hi there! 👋 I'm Maik. Welcome to my GitHub profile!" 
 
-<!--
-**Chriss-mk/Chriss-mk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About Me </h2>
 
-Here are some ideas to get you started:
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Soy estudiante de programación
+
+- 🌱 I’m currently learning Python, JavaScript, HTML, CSS, Git, and GitHub
+
+- 👯 I’m always looking to learn new things every day; stopping is not an option
+
+- ⚡ Fun fact: I love listening to good music and reading.
