@@ -4,6 +4,9 @@
 
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqGtPqCKj7DfKQbWOyRGmVw?style=social)](https://youtube.com/channel/UCqGtPqCKj7DfKQbWOyRGmVw)
 [![Twitch Status](https://img.shields.io/twitch/status/chriss_mk?style=social)](https://twitch.com/chriss_mk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Chriss_178?style=social)](https://twitter.com/Chriss_178)
+[![GitHub Followers](https://img.shields.io/github/followers/Chriss-mk?style=social)](https://github.com/Chriss-mk)
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 
 
 
